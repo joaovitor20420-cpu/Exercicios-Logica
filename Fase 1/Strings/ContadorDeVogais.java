@@ -4,7 +4,7 @@ public class ContadorDeVogais {
     public static void main(String[] args) {
 
 
-    String frase = "ola";
+    String frase = "joao vitor";
     int contador = 0;
         for( int i = 0; i < frase.length(); i++){
             char c = frase.charAt(i);
