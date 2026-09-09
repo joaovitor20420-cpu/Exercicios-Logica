@@ -1,6 +1,6 @@
 package Arrey;
 
-public class InverterArrey {
+public class InverterArray {
     public static void main(String[] args){
         int numero[] = {1, 2, 3, 4, 5};
         int temp = numero[0];
