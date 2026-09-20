@@ -1,7 +1,7 @@
 package Fase4;
 
 public class ZooApp {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Cachorro dog = new Cachorro();
         dog.nome = "Tiger";
         dog.idade = "5";
@@ -13,5 +13,6 @@ public class ZooApp {
         cat.idade = "3";
 
         cat.emitirSom();
+
     }
 }
